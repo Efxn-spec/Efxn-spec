@@ -9,9 +9,9 @@
   Passionate about Computer Vision, Deep Learning, Multi-Agent Systems, and Real-Time Generative AI.
 </p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ahmad-irfan-johan-bin-mazlan-5b583a377)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/Efxn-spec)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail)](mailto:ahmadEfxn-spec@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail)](mailto:irfanjohan990@gmail.com)
 
 </div>
 
@@ -91,8 +91,8 @@
 
 ### 📬 Connect With Me
 
-- 💼 **LinkedIn**: [linkedin.com/in/ahmadEfxn-spec](https://linkedin.com)
-- 📧 **Email**: ahmadEfxn-spec@gmail.com
+- 💼 **LinkedIn**: [linkedin.com/in/ahmad-irfan-johan-bin-mazlan-5b583a377](https://www.linkedin.com/in/ahmad-irfan-johan-bin-mazlan-5b583a377)
+- 📧 **Email**: [irfanjohan990@gmail.com](mailto:irfanjohan990@gmail.com)
 - 🏛️ **University**: [Universiti Teknologi Malaysia (UTM)](https://www.utm.my)
 
 <div align="center">
