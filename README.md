@@ -11,7 +11,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/Efxn-spec)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail)](mailto:ahmadirfanjohan@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail)](mailto:ahmadEfxn-spec@gmail.com)
 
 </div>
 
@@ -91,8 +91,8 @@
 
 ### 📬 Connect With Me
 
-- 💼 **LinkedIn**: [linkedin.com/in/ahmadirfanjohan](https://linkedin.com)
-- 📧 **Email**: ahmadirfanjohan@gmail.com
+- 💼 **LinkedIn**: [linkedin.com/in/ahmadEfxn-spec](https://linkedin.com)
+- 📧 **Email**: ahmadEfxn-spec@gmail.com
 - 🏛️ **University**: [Universiti Teknologi Malaysia (UTM)](https://www.utm.my)
 
 <div align="center">
