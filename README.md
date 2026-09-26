@@ -19,7 +19,11 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 **Education**: Currently pursuing **Bachelor of Artificial Intelligence** at the **Faculty of Artificial Intelligence (FAI)**, Universiti Teknologi Malaysia (UTM).
+- 🎓 **Education**:
+  - **Bachelor of Artificial Intelligence** — Faculty of Artificial Intelligence (FAI), Universiti Teknologi Malaysia (UTM) *(Current)*
+  - **Diploma in Information Technology** — Management & Science University College (MSUC) Johor Bahru
+- 💼 **Experience**:
+  - **IT Technician Intern** — Hotel Holiday Villa Johor Bahru *(Hardware/software troubleshooting, network infrastructure, and system maintenance)*
 - 🧠 **Technical Interests**: Computer Vision (Deep Learning & Classical Methods), Multi-Agent LLM Systems, Speech-to-Speech (S2S) Architecture, and Transfer Learning.
 - 🚀 **Featured Projects**:
   - **SpeakWise S2S**: Voice-first AI language tutoring platform powered by Google Gemini, FastAPI, ChromaDB RAG, and multi-agent orchestration.
@@ -36,28 +40,28 @@
 <div align="center">
 
 #### 🤖 AI, Machine Learning & Computer Vision
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras" />
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib" />
 
 #### 🌐 Backend, APIs & Vector Databases
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/Google_Gemini_API-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6600?style=for-the-badge&logo=databricks&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=postman&logoColor=white)
-![Uvicorn](https://img.shields.io/badge/Uvicorn-2C3E50?style=for-the-badge&logo=gunicorn&logoColor=white)
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+<img src="https://img.shields.io/badge/Google_Gemini_API-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Gemini" />
+<img src="https://img.shields.io/badge/ChromaDB-FF6600?style=for-the-badge&logo=databricks&logoColor=white" alt="ChromaDB" />
+<img src="https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=postman&logoColor=white" alt="REST APIs" />
+<img src="https://img.shields.io/badge/Uvicorn-2C3E50?style=for-the-badge&logo=gunicorn&logoColor=white" alt="Uvicorn" />
 
 #### 💻 Tools, Mobile & Workflow
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
 
 </div>
 
@@ -71,21 +75,6 @@
 | ♻️ **[Waste-Classification-EfficientNet](https://github.com/Efxn-spec/Waste-Classification-EfficientNet)** | Deep learning computer vision pipeline categorizing hazardous and recyclable waste (battery, brown glass, cardboard). Benchmarked Custom CNN vs. EfficientNetB0 Transfer Learning with **97.28% test accuracy**. | TensorFlow, Keras, EfficientNetB0, OpenCV | 🏆 Completed |
 | 👁️ **[CV-Feature-Extraction-Segmentation](https://github.com/Efxn-spec/CV-Feature-Extraction-Segmentation)** | Comprehensive computer vision benchmark evaluating classical feature detectors (Sobel, Prewitt, Canny, Harris, LoG, DoG, DoH), affine transformations, mathematical morphology, and Watershed vs Canny segmentation. | Python, OpenCV, Scikit-Image, Matplotlib | 🔬 Research Project |
 | 🌿 **[Environmental-Air-Quality-ANN](https://github.com/Efxn-spec/Environmental-Air-Quality-ANN)** | Air quality classification & forecasting using Artificial Neural Networks (ANN) on UCI sensor data, featuring systematic hyperparameter tuning and performance evaluation. | Python, TensorFlow/PyTorch, Scikit-Learn | 📊 Completed |
-
----
-
-### 📊 GitHub Activity & Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Efxn-spec&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Efxn-spec&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-
-<br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Efxn-spec&theme=tokyonight&hide_border=true" width="97%" />
-
-</div>
 
 ---
 
